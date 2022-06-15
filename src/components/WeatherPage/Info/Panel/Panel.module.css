@@ -1,0 +1,5 @@
+.panel__wrapper {
+    display: flex;
+    width: 96vw;
+    transition: all .5s;
+}

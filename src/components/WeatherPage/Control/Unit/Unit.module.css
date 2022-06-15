@@ -1,0 +1,7 @@
+.unit__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+}

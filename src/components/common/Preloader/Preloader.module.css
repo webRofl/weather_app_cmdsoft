@@ -1,0 +1,12 @@
+.preloader__wrapper {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 65px;
+    flex-wrap: wrap;
+}
+
+.preloader__wrapper_fullScreen {
+    height: 100vh;
+}

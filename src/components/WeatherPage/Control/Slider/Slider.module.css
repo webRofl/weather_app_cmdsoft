@@ -1,0 +1,17 @@
+.slider__wrapper {
+    display: flex;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.slider__arrow {
+    width: 10vw;
+    cursor: pointer;
+}
+
+@media (max-width: 1000px) {
+    .slider__arrow {
+        width: 20vw;
+    }
+}
